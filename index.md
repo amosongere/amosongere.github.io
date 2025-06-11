@@ -31,14 +31,14 @@ Africa and University of Western Cape.
 > Through partnership with Volks Elevator, I joined the committee in organizing the sustainable
  urban development forum hosting key government executive members and investors across
  the real estate sector.
- 
+
 > Analysed and on-boarded a Zoho CRM contributing to performance for technical team
  management, finance books and sales retention strategies.
 > Revised and Prepared Risk Assessment Method Statement for Floor Protection, Alignment of
  Raised Floor & Manual loading, offloading and handling of Materials.
 > Designed and Developed the company website for Web Development.
 
-# **NOTABLE HONORS & HONORS**
+# **NOTABLE HONORS & AWARDS**
 1. Received an Entrepreneurship Grant worth $3000 to implement an ICED - iT social venture under the United Social Ventures in partnership with Mastercard Foundation Scholars Program at USIU-Africa.
 2. Received three Outstanding Academic Performance and Outstanding Student Leader awards at USIU-Africa by the Mastercard Foundation Scholars Program.
 3. Received Best Elected Student Council Member Service Award due to excellent leadership service and student support success.
@@ -46,3 +46,24 @@ Africa and University of Western Cape.
 5. Received an Exceptional Golden Scholar Award for the Mastercard Foundation Virtual Program (Connecting Across Continents & Cultivating 21st Century Work Skills)
 6. Selected from a pool of 450 scholars under the Mastercard Foundation Scholars Program in partnership with USIU-Africa to represent the scholars as it marks decennial at the Baobab Summit: Scholars@10 Edition, in celebration of a Decade of Transformative Impact and Learning.
 7. Through Invitation to university leaders across Africa, I attended the Uganda Africa Youth Leadership Forum Gathering themed; “Building Resilience” in nurturing new breed of leaders in Africa and the Prayer Breakfast - Statehouse Kampala.
+
+# **CERTIFICATIONS**
+- Zoho CRM for Administrators (Virtual Classroom Training) 
+- RUCKUS Portfolio Sales Training
+- RUCKUS Portfolio SE Pre-Sales Training
+- RUCKUS Wi-Fi Design
+- Siemon Certified Designer/Installer
+- Fortinent: Introduction to the Threat Landscape
+- SolarWinds Hybrid Cloud Observability Network Monitoring.
+
+# **SKILLS**
+*Web Development*
+JavaScript, HTML, CSS, SQL
+
+*Research and Planning*
+Data Structures and Algorithms, General Research Methods, Machine Learning and AI.
+
+*Programming Languages*
+C#, Python, C++, R
+
+
