@@ -71,6 +71,6 @@ Africa and University of Western Cape.
 
 *Programming Languages:* C#, Python, C++, R 
 
-*Cloud & Network Security:* Network Traffic Analysis, NEtwork COnfigurations, Penetration Testing.
+*Cloud & Network Security:* Network Traffic Analysis, Network Configurations, Penetration Testing.
 
 
