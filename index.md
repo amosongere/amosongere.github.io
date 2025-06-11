@@ -64,6 +64,6 @@ JavaScript, HTML, CSS, SQL
 Data Structures and Algorithms, General Research Methods, Machine Learning and AI.
 
 *Programming Languages*
-C#, Python, C++, R
+C#, Python, C++, R 
 
 
