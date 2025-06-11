@@ -9,8 +9,9 @@ author_profile: true
 # **EDUCATION**
 ## Bachelor of Science in Applied Computer Technology | 2020 - 2024 
 *United States International University Africa*
->> Relevant Coursework: Management Information Systems, Project Management, Business Data Analytics, Operating, System Analysis & Design, Research Methods, Artificial Intelligence, Software Design & Architecture, Cloud Computing & Virtualization, Strategy for University Success, Business Organizations, Integrated Seminar.
->> Cum Laude & Social Venture Award
+Relevant Coursework: Management Information Systems, Project Management, Business Data Analytics, Operating, System Analysis & Design, Research Methods, Artificial Intelligence, Software Design & Architecture, Cloud Computing & Virtualization, Strategy for University Success, Business Organizations, Integrated Seminar.
+
+Cum Laude & Social Venture Award
 
 
 # **WORK EXPERIENCE**
@@ -35,7 +36,7 @@ Africa and University of Western Cape.
  Raised Floor & Manual loading, offloading and handling of Materials.
  >> Designed and Developed the company website for Web Development.
 
- # **NOTABLE HONORS & HONORS**
+# **NOTABLE HONORS & HONORS**
 1. Received an Entrepreneurship Grant worth $3000 to implement an ICED - iT social venture under the United Social Ventures in partnership with Mastercard Foundation Scholars Program at USIU-Africa.
 2. Received three Outstanding Academic Performance and Outstanding Student Leader awards at USIU-Africa by the Mastercard Foundation Scholars Program.
 3. Received Best Elected Student Council Member Service Award due to excellent leadership service and student support success.
