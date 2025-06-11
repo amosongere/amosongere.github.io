@@ -31,6 +31,7 @@ Africa and University of Western Cape.
 > Through partnership with Volks Elevator, I joined the committee in organizing the sustainable
  urban development forum hosting key government executive members and investors across
  the real estate sector.
+ 
 > Analysed and on-boarded a Zoho CRM contributing to performance for technical team
  management, finance books and sales retention strategies.
 > Revised and Prepared Risk Assessment Method Statement for Floor Protection, Alignment of
