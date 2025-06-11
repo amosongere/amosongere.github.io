@@ -28,14 +28,14 @@ Africa and University of Western Cape.
 
 ## Field and Technical Support Engineer | 2024 
 *Encapsulated East Africa Limited*
->> Through partnership with Volks Elevator, I joined the committee in organizing the sustainable
+> Through partnership with Volks Elevator, I joined the committee in organizing the sustainable
  urban development forum hosting key government executive members and investors across
  the real estate sector.
->> Analysed and on-boarded a Zoho CRM contributing to performance for technical team
+> Analysed and on-boarded a Zoho CRM contributing to performance for technical team
  management, finance books and sales retention strategies.
- >> Revised and Prepared Risk Assessment Method Statement for Floor Protection, Alignment of
+> Revised and Prepared Risk Assessment Method Statement for Floor Protection, Alignment of
  Raised Floor & Manual loading, offloading and handling of Materials.
- >> Designed and Developed the company website for Web Development.
+> Designed and Developed the company website for Web Development.
 
 # **NOTABLE HONORS & HONORS**
 1. Received an Entrepreneurship Grant worth $3000 to implement an ICED - iT social venture under the United Social Ventures in partnership with Mastercard Foundation Scholars Program at USIU-Africa.
