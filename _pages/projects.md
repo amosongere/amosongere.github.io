@@ -7,6 +7,7 @@ author_profile: true
 
 
 ## 👔 Professional
+Designed and Developed the company website while addressing spamming hacks as an Intern for Web Development.
 
 - <i class="fas fa-external-link-alt"></i> [Developed Company Website](https://encapsulatedafrica.com/)
 - <i class="fas fa-external-link-alt"></i> [Github Profile](https://amosongere.github.io/)
