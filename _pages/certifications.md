@@ -24,4 +24,3 @@ author_profile: true
 - <i class="fas fa-external-link-alt"></i> [Golden Scholar](https://drive.google.com/file/d/1sZAg94lT63mHVkYCpFndaa5vDlBACdbA/view?usp=drive_link)
 - <i class="fas fa-external-link-alt"></i> [Africa Youth Leadership Forum](https://drive.google.com/file/d/1y2Mgdk3_nSvQzVe27WvO4ntORPQiPlmK/view?usp=sharing)
 
-
