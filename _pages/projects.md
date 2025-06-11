@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-
 ## 👔 Professional
 Designed and Developed the company website while addressing spamming hacks as an Intern for Web Development.
 
