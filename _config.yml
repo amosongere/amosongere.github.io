@@ -79,6 +79,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/amosongere/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:amos.ongere@encapsulatedafrica.com"
 
 defaults:
   # _posts
