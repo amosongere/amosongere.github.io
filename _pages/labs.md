@@ -1,6 +1,6 @@
 ---
 title: "Research and Labs
 permalink: /labs/
-layout: labs
+layout: tags
 author_profile: true
 ---
