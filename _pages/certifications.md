@@ -1,6 +1,6 @@
 ---
 title: "Certifications"
-layout: categories
+layout: certifications
 permalink: /certifications/
 author_profile: true
 ---
