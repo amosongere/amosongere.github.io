@@ -2,7 +2,7 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: single
 author_profile: true
 title: "Welcome"
 excerpt: "Portifolio website of Amos Ongere – Cloud & Network Security enthusiast"
@@ -70,5 +70,7 @@ Africa and University of Western Cape.
 *Research and Planning:* Data Structures and Algorithms, General Research Methods, Machine Learning and AI.
 
 *Programming Languages:* C#, Python, C++, R 
+
+*Cloud & Network Security:* Network Traffic Analysis, NEtwork COnfigurations, Penetration Testing.
 
 
