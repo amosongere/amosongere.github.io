@@ -9,6 +9,7 @@ author_profile: true
 # **EDUCATION**
 ## Bachelor of Science in Applied Computer Technology | 2020 - 2024 
 *United States International University Africa*
+
 Relevant Coursework: Management Information Systems, Project Management, Business Data Analytics, Operating, System Analysis & Design, Research Methods, Artificial Intelligence, Software Design & Architecture, Cloud Computing & Virtualization, Strategy for University Success, Business Organizations, Integrated Seminar.
 
 Cum Laude & Social Venture Award
@@ -17,10 +18,10 @@ Cum Laude & Social Venture Award
 # **WORK EXPERIENCE**
 ## Alumni Steering Committee | 2025
 *InHive Global - Building Alumni Community and Impact Networks*
->> Supported the development and expansion of Mastercard Foundation Alumni across
+> Supported the development and expansion of Mastercard Foundation Alumni across
  partnering institutions, including AIMS, Makerere University, University of Rwanda, USIU
 Africa and University of Western Cape.
->> Engaged the wider Mastercard Foundation Scholar network in developing work plans,
+> Engaged the wider Mastercard Foundation Scholar network in developing work plans,
  foundational strategies for community support and shared growth in collaboration with
  partners: Education Sub Saharan Africa (ESSA), Defy Hate Now (DHN), and Enlightening
  and Empowering People with Disabilities (EEPD).
