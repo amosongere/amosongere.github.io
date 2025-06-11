@@ -13,4 +13,4 @@ author_profile: true
 
 ## 🤝 Community Action Projects
 
-- <i class="fas fa-external-link-alt"></i> [From Learning to Leading Series with Amos](https://youtu.be/zm4iKRmADug?si=cWLo81uc9chvihRw)
+- <i class="fas fa-external-link-alt"></i> [From Learning to Leading Series with Amos](https://youtu.be/zm4iKRmADug?si=cWLo81uc9chvihRw) 
