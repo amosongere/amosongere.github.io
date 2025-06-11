@@ -8,8 +8,6 @@ author_profile: true
 ## 🎓 Academic Certifications
 
 - <i class="fas fa-external-link-alt"></i> [Degree Certificate](https://drive.google.com/file/d/1bQKFtGRMIrUXD6BvuOOZWs5WA84jm9C1/view?usp=drive_link)
-- <i class="fas fa-external-link-alt"></i> [Harvard CS50 Introduction to Computer Science](https://cs50.harvard.edu/certificates/)
-- <i class="fas fa-external-link-alt"></i> [Cisco Networking Basics](https://skillsforall.com)
 
 ## 💼 Work Certifications
 
