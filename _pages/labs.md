@@ -1,6 +1,6 @@
 ---
-title: "Research and Labs
+title: "Research and Labs"
 permalink: /labs/
-layout: tags
+layout: labs
 author_profile: true
 ---
